@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MainActivity -->
+    <string name="app_name">2DV106 Lab3</string>
+    <string name="action_settings">Settings</string>
+    <string name="order_by_year">Year</string>
+    <string name="order_by_name">Country</string>
+    <string name="add_new_country">Add</string>
+    <string name="textViewHeaderMain">All activities</string>
+
+    <!-- VaxjoWeather -->
+    <string name="title_activity_vaxjoweather">Växjö Weather</string>
+    <string name="buttonUpdate">UPDATE</string>
+
+    <!-- Colors -->
+    <color name="myColor">#ffffffff</color>
+    <color name="myColorYellow">#ffeeed83</color>
+    <color name="myColorPink">#ffeeaee1</color>
+    <color name="myColorBlue">#ff73c9ee</color>
+    <color name="myColorGreen">#ff99ee87</color>
+    <color name="myColorBlack">#ff000000</color>
+    <color name="myTextColorWhite">#ffffffff</color>
+
+    <string name="title_activity_widget_config">WidgetConfig</string>
+    <string name="choose_city_header">Choose a city for your widget</string>
+    <string name="title_activity_phone_history">PhoneHistory</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
